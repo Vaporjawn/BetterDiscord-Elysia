@@ -9,7 +9,7 @@
 
 /*  GENERAL CONFIG  */
 :root {
-        --Title: "E L Y S I A";
+        --Title: "V A P O R J A W N";
         --logo: url(https://cdn.discordapp.com/attachments/662824403381518374/664221915229192249/Elysia.png);
         --background: url(https://cdn.discordapp.com/attachments/476154188494143498/666288979506888704/wp_InPixio.jpg); /*   You can also use : url(LINKtoIMAGE)  */
         --CustomStatusText: "Edit Custom Status";
@@ -27,13 +27,13 @@
         --Unavailable: rgb(228, 46, 0);
         --Offline: rgb(116, 127, 141);
 /*  PROFILE HEADERS (you can also use "url(LINKtoIMAGE)" for the profile headers)  */
-        --Playing: rgb(0, 221, 250); 
+        --Playing: rgb(0, 221, 250);
         --Xbox: rgb(5, 150, 5);
         --Spotify: rgb(19, 218, 88);
         --Streaming: rgb(70, 0, 192);
-    
+
 /*  MENUS COLORS  */
         --darkgrey: rgb(32, 32, 32);
         --darkgrey5: rgba(14, 14, 14, 0.75);
-    } 
+    }
 /*END OF CONFIG*/
